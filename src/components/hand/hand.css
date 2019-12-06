@@ -1,0 +1,8 @@
+.Hand {
+  /* width: 20%; */
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  min-height: 150px;
+}

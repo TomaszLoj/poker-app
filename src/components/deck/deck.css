@@ -1,0 +1,7 @@
+.Deck {
+  /* width: 20%; */
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}

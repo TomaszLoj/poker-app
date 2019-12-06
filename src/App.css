@@ -1,0 +1,12 @@
+:root{
+  background-color: olivedrab;
+}
+
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+
